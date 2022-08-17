@@ -5,7 +5,7 @@
 
     <br>
     <div v-show="this.search.length" class="row first-row">
-      <h1>Search Item for {{this.search}}</h1><br><br>
+      <h1><b>Search Item for {{this.search}}</b></h1><br><br>
     </div>
     <!--<div>
       <ul>
